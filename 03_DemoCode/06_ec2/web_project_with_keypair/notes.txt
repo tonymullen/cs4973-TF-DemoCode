@@ -1,0 +1,13 @@
+Creating a keypair with aws/localstack:
+
+% aws --endpoint-url=http://localhost:4566 ec2 create-key-pair --region us-west-1 --key-name web --query 'KeyMaterial' --output text | tee key.pem
+
+Create the public key (web.pub) using
+
+ssh-keygen -y
+
+(Enter the key.pem created above at the prompt)
+
+
+--query 'KeyMaterial' filters out only the plain text key from what would
+otherwise be a more detailed structured response that would need parsing.
