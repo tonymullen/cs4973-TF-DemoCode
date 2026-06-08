@@ -1,0 +1,7 @@
+This will set up a mock backend bucket and dynamodb database to do remote state.
+
+Do tf init and apply on backend first then do tf init and apply on frontend.
+
+You can check that the state file is being written to s3 by doing
+
+% aws --endpoint-url=http://localhost:4566 s3api list-objects --bucket backend-bucket-iac-terraform --region us-west-1
