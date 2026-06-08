@@ -1,0 +1,82 @@
+[
+  {
+    "content" = "I love my pet!"
+    "content_base64" = tostring(null)
+    "content_base64sha256" = "3KKVKogZdcFafAFM9Y9MReQEadmrXwE0iCeMwi9CpK0="
+    "content_base64sha512" = "IsZeQJwTDPn/JvVe2Ip1X1Q3RHE399YVIqTqpnhVNu7tsLj0z2q9JTIUJ3bKvgs9vyUhw4SfI1vKnHLZNFLLCA=="
+    "content_md5" = "48e4667e34cec3b3b9c2649f9d0e666d"
+    "content_sha1" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "content_sha256" = "dca2952a881975c15a7c014cf58f4c45e40469d9ab5f013488278cc22f42a4ad"
+    "content_sha512" = "22c65e409c130cf9ff26f55ed88a755f5437447137f7d61522a4eaa6785536eeedb0b8f4cf6abd2532142776cabe0b3dbf2521c3849f235bca9c72d93452cb08"
+    "directory_permission" = "0777"
+    "file_permission" = "0777"
+    "filename" = "/Users/tonymullen/Library/CloudStorage/Dropbox/Northeastern/Classes/CS6620-FA23-CloudComputing/TFModule/DemoCode/Lecture2/06_count_and_length/dogs.txt"
+    "id" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "sensitive_content" = tostring(null)
+    "source" = tostring(null)
+  },
+  {
+    "content" = "I love my pet!"
+    "content_base64" = tostring(null)
+    "content_base64sha256" = "3KKVKogZdcFafAFM9Y9MReQEadmrXwE0iCeMwi9CpK0="
+    "content_base64sha512" = "IsZeQJwTDPn/JvVe2Ip1X1Q3RHE399YVIqTqpnhVNu7tsLj0z2q9JTIUJ3bKvgs9vyUhw4SfI1vKnHLZNFLLCA=="
+    "content_md5" = "48e4667e34cec3b3b9c2649f9d0e666d"
+    "content_sha1" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "content_sha256" = "dca2952a881975c15a7c014cf58f4c45e40469d9ab5f013488278cc22f42a4ad"
+    "content_sha512" = "22c65e409c130cf9ff26f55ed88a755f5437447137f7d61522a4eaa6785536eeedb0b8f4cf6abd2532142776cabe0b3dbf2521c3849f235bca9c72d93452cb08"
+    "directory_permission" = "0777"
+    "file_permission" = "0777"
+    "filename" = "/Users/tonymullen/Library/CloudStorage/Dropbox/Northeastern/Classes/CS6620-FA23-CloudComputing/TFModule/DemoCode/Lecture2/06_count_and_length/cats.txt"
+    "id" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "sensitive_content" = tostring(null)
+    "source" = tostring(null)
+  },
+  {
+    "content" = "I love my pet!"
+    "content_base64" = tostring(null)
+    "content_base64sha256" = "3KKVKogZdcFafAFM9Y9MReQEadmrXwE0iCeMwi9CpK0="
+    "content_base64sha512" = "IsZeQJwTDPn/JvVe2Ip1X1Q3RHE399YVIqTqpnhVNu7tsLj0z2q9JTIUJ3bKvgs9vyUhw4SfI1vKnHLZNFLLCA=="
+    "content_md5" = "48e4667e34cec3b3b9c2649f9d0e666d"
+    "content_sha1" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "content_sha256" = "dca2952a881975c15a7c014cf58f4c45e40469d9ab5f013488278cc22f42a4ad"
+    "content_sha512" = "22c65e409c130cf9ff26f55ed88a755f5437447137f7d61522a4eaa6785536eeedb0b8f4cf6abd2532142776cabe0b3dbf2521c3849f235bca9c72d93452cb08"
+    "directory_permission" = "0777"
+    "file_permission" = "0777"
+    "filename" = "/Users/tonymullen/Library/CloudStorage/Dropbox/Northeastern/Classes/CS6620-FA23-CloudComputing/TFModule/DemoCode/Lecture2/06_count_and_length/guinea_pigs.txt"
+    "id" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "sensitive_content" = tostring(null)
+    "source" = tostring(null)
+  },
+  {
+    "content" = "I love my pet!"
+    "content_base64" = tostring(null)
+    "content_base64sha256" = "3KKVKogZdcFafAFM9Y9MReQEadmrXwE0iCeMwi9CpK0="
+    "content_base64sha512" = "IsZeQJwTDPn/JvVe2Ip1X1Q3RHE399YVIqTqpnhVNu7tsLj0z2q9JTIUJ3bKvgs9vyUhw4SfI1vKnHLZNFLLCA=="
+    "content_md5" = "48e4667e34cec3b3b9c2649f9d0e666d"
+    "content_sha1" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "content_sha256" = "dca2952a881975c15a7c014cf58f4c45e40469d9ab5f013488278cc22f42a4ad"
+    "content_sha512" = "22c65e409c130cf9ff26f55ed88a755f5437447137f7d61522a4eaa6785536eeedb0b8f4cf6abd2532142776cabe0b3dbf2521c3849f235bca9c72d93452cb08"
+    "directory_permission" = "0777"
+    "file_permission" = "0777"
+    "filename" = "/Users/tonymullen/Library/CloudStorage/Dropbox/Northeastern/Classes/CS6620-FA23-CloudComputing/TFModule/DemoCode/Lecture2/06_count_and_length/guppies.txt"
+    "id" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "sensitive_content" = tostring(null)
+    "source" = tostring(null)
+  },
+  {
+    "content" = "I love my pet!"
+    "content_base64" = tostring(null)
+    "content_base64sha256" = "3KKVKogZdcFafAFM9Y9MReQEadmrXwE0iCeMwi9CpK0="
+    "content_base64sha512" = "IsZeQJwTDPn/JvVe2Ip1X1Q3RHE399YVIqTqpnhVNu7tsLj0z2q9JTIUJ3bKvgs9vyUhw4SfI1vKnHLZNFLLCA=="
+    "content_md5" = "48e4667e34cec3b3b9c2649f9d0e666d"
+    "content_sha1" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "content_sha256" = "dca2952a881975c15a7c014cf58f4c45e40469d9ab5f013488278cc22f42a4ad"
+    "content_sha512" = "22c65e409c130cf9ff26f55ed88a755f5437447137f7d61522a4eaa6785536eeedb0b8f4cf6abd2532142776cabe0b3dbf2521c3849f235bca9c72d93452cb08"
+    "directory_permission" = "0777"
+    "file_permission" = "0777"
+    "filename" = "/Users/tonymullen/Library/CloudStorage/Dropbox/Northeastern/Classes/CS6620-FA23-CloudComputing/TFModule/DemoCode/Lecture2/06_count_and_length/tarantulas.txt"
+    "id" = "235d47beda342692c38bb777d6b1056907c853f3"
+    "sensitive_content" = tostring(null)
+    "source" = tostring(null)
+  },
+]
