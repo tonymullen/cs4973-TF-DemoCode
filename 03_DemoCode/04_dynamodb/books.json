@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Finnegans Wake",
+        "author": "James Joyce",
+        "year": "1939",
+        "isbn": "978-0141181264"
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "year": "1939",
+        "isbn": "978-1400033416"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "year": "1878",
+        "isbn": "978-1853262715"
+    }
+]
